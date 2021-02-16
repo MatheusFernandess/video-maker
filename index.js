@@ -4,9 +4,6 @@ const robots = {
 	text: require('./robots/text.js')
 }
 async function start () {
-
-function start () {
-
 	const content = {}
 
 	content.searchTerm = askAndReturnSearchTerm()
