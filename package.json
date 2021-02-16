@@ -22,11 +22,7 @@
     "url": "git+https://github.com/MatheusFernandess/video-maker.git"
   },
   "keywords": [
-
     "video-maker"
-
-    "video"
-    
   ],
   "author": "Matheus Fernandes",
   "license": "ISC",
@@ -35,9 +31,4 @@
   },
 
   "homepage": "https://github.com/MatheusFernandess/video-maker#readme"
-
-  "homepage": "https://github.com/MatheusFernandess/video-maker#readme",
-  "dependencies": {
-    "readline-sync": "^1.4.10"
-  }
 }
