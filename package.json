@@ -1,8 +1,19 @@
 {
   "name": "video-maker",
   "version": "1.0.0",
+
+  "description": "video-maker",
+  "main": "index.js",
+  "dependencies": {
+    "algorithmia": "^0.3.10",
+    "readline-sync": "^1.4.10",
+    "sbd": "^1.0.18"
+  },
+  "devDependencies": {},
+
   "description": "projeto-video-maker",
   "main": "index.js",
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,13 +22,20 @@
     "url": "git+https://github.com/MatheusFernandess/video-maker.git"
   },
   "keywords": [
+
+    "video-maker"
+
     "video"
+    
   ],
   "author": "Matheus Fernandes",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MatheusFernandess/video-maker/issues"
   },
+
+  "homepage": "https://github.com/MatheusFernandess/video-maker#readme"
+
   "homepage": "https://github.com/MatheusFernandess/video-maker#readme",
   "dependencies": {
     "readline-sync": "^1.4.10"
